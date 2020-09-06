@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aac19c8096b00c943b3fe7fa962c2e61, type: 3}
+  m_Name: Pink
+  m_EditorClassIdentifier: 
+  name: Pink
+  color: {r: 1, g: 0.7529412, b: 0.79607844, a: 0}
+  cubeClick: 10
+  sphereClick: 1
+  capsuleClisk: 2
